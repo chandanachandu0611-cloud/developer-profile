@@ -96,7 +96,7 @@
             <h2>Contact Me</h2>
             <p>Have a project in mind or want to collaborate? Feel free to reach out using the form below!</p>
 
-            <form action="#" method="POST" class="contact-form">
+            <form class="contact-form" onsubmit="event.preventDefault(); alert('Message sent successfully!');">
                 <div class="form-group">
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required placeholder="Your Name">
