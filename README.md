@@ -9,3 +9,9 @@ A responsive personal developer portfolio page built using semantic HTML5 and mo
 
 ## Live Preview
 You can view the live deployed portfolio here: [Vercel Live URL](https://developer-profile-sooty.vercel.app/)
+
+
+## Demo Video & Connect
+* **Demo Video:** [![Watch the Demo Video](https://img.youtube.com/vi/5SjDfNOpRjo/0.jpg)](https://youtu.be/5SjDfNOpRjo)
+* **GitHub:** [Chandanachandu0611-cloud](https://github.com/Chandanachandu0611-cloud)
+* **LinkedIn:** [LinkedIn Profile](https://linkedin.com)
